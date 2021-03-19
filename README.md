@@ -1,7 +1,5 @@
-# Curso de HTML5 e CSS3 - AluraTinderBook
-<h1 align="center">
-<img src="html-css.jpeg">
-</h1>
+# Curso de HTML5 e CSS3 - Alura
+<h1 align="center"></h1>
 
 <p>Este é um projeto de uma página web de uma barbearia utilizando HTML e CSS.</p>
 
